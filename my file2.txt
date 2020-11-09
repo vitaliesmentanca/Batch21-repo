@@ -2,3 +2,6 @@ second file
 we are cloning
 remote to locally
 making some changes
+adding from github.com
+adding more stuff from locally
+ remote repo
